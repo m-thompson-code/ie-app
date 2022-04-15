@@ -110,10 +110,7 @@
         "deploy": {
           "builder": "angular-cli-ghpages:deploy",
           "options": {
-            "baseHref": "https://m-thompson-code.github.io/ie-test/",
-            "name": "Mark Thompson",
-            "email": "m.thompson.code@gmail.com",
-            "repo": "https://github.com/m-thompson-code/ie-test",
+            "baseHref": "/ie-app/",
             "noSilent": true
           }
         }
